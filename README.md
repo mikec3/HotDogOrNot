@@ -7,13 +7,13 @@ My recreation of Jian Yang's Hot Dog App from Silicon Valley.
 
 # App
 <div>
-<img src='App_Dog.png' style='width: 200px; height: 400px; margin-right: 10px; border: 1px solid black; border-radius: 10px'/>
-<img src='App_NotDog.png' style='width: 200px; height: 400px; margin-right: 10px'/>
-<img src='App_Home.png' style='width: 200px; height: 400px; margin-right: 10px'/>
+<img src='App_Dog.png' style='width: 200px; height: 400px; margin-right: 20px; border: 1px solid black; border-radius: 10px'/>
+<img src='App_NotDog.png' style='width: 200px; height: 400px; margin-right: 20px; border: 1px solid black; border-radius: 10px'/>
+<img src='App_Home.png' style='width: 200px; height: 400px; margin-right: 20px; border: 1px solid black; border-radius: 10px'/>
 </div>
 
 # Architecture
-<img src='App_Diagram.png' style='width: 500px; height: 400px; margin-right: 10px'/>
+<img src='App_Diagram.png' style='width: 500px; height: 400px; border: 1px solid black; border-radius: 10px'/>
 
 Tutorials that helped:
 - 

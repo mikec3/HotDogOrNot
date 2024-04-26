@@ -6,9 +6,11 @@ My recreation of Jian Yang's Hot Dog App from Silicon Valley.
  Video: 
 
 # App
+<div>
 <img src='App_Dog.png' style='width: 100px; height: 200px; margin-right: 10px'/>
 <img src='App_NotDog.png' style='width: 100px; height: 200px; margin-right: 10px'/>
 <img src='App_Home.png' style='width: 100px; height: 200px; margin-right: 10px'/>
+</div>
 
 # Architecture
 <img src='App_Diagram.png' style='width: 250px; height: 200px; margin-right: 10px'/>

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Camera, CameraType } from 'expo-camera';
+import { Camera, CameraType } from 'expo-camera/legacy';
 import { View, StyleSheet, TouchableOpacity, Text } from 'react-native';
 
 const CameraView = props => {

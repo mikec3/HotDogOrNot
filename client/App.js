@@ -99,7 +99,7 @@ export default function App() {
     <View>
       <View style={{marginTop: 50}}>
         {previewVisible && capturedImage ? 
-          <ImagePreview width={width} capturedImage={capturedImage}/>
+          <ImagePreview height={height} capturedImage={capturedImage}/>
         :
         <CameraView height={height} processPicture={processPicture}/>
         }

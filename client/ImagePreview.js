@@ -7,7 +7,7 @@ const ImagePreview = props => {
     <View>
         <ImageBackground 
             style={{ 
-            height: props.width,
+            height: props.height,
             width: '100%'
             }} 
             source={{uri: props.capturedImage.uri}}/>
